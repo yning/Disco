@@ -1,7 +1,7 @@
 ##Parse JSON format in MapReduce Disco
 ====
 
-Input Data Example:
+Input File Name Example:
 - twitter:2013-01-01-0000
 
 How to run:
