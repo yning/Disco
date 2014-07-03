@@ -1,4 +1,4 @@
-##Parse JSON format in MapReduce Disco
+##Filter Tweets and Parse JSON Format in Disco
 ====
 
 - Input File Name Example:
